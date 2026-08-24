@@ -30,9 +30,34 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/vishvam839/Leetcode_Solution/tree/master/0365-water-and-jug-problem) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vishvam839/Leetcode_Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vishvam839/Leetcode_Solution/tree/master/0011-container-with-most-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/vishvam839/Leetcode_Solution/tree/master/0365-water-and-jug-problem) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/vishvam839/Leetcode_Solution/tree/master/0365-water-and-jug-problem) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/vishvam839/Leetcode_Solution/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/vishvam839/Leetcode_Solution/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/vishvam839/Leetcode_Solution/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/vishvam839/Leetcode_Solution/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
