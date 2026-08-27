@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/vishvam839/Leetcode_Solution/tree/master/0365-water-and-jug-problem) |
+| [0650-2-keys-keyboard](https://github.com/vishvam839/Leetcode_Solution/tree/master/0650-2-keys-keyboard) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vishvam839/Leetcode_Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
 |  |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/vishvam839/Leetcode_Solution/tree/master/1991-find-the-middle-index-in-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0650-2-keys-keyboard](https://github.com/vishvam839/Leetcode_Solution/tree/master/0650-2-keys-keyboard) |
 <!---LeetCode Topics End-->
