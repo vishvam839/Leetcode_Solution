@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vishvam839/Leetcode_Solution/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/vishvam839/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishvam839/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1991-find-the-middle-index-in-array](https://github.com/vishvam839/Leetcode_Solution/tree/master/1991-find-the-middle-index-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vishvam839/Leetcode_Solution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0650-2-keys-keyboard](https://github.com/vishvam839/Leetcode_Solution/tree/master/0650-2-keys-keyboard) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vishvam839/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vishvam839/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
