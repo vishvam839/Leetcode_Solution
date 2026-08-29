@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/vishvam839/Leetcode_Solution/tree/master/0365-water-and-jug-problem) |
 | [0650-2-keys-keyboard](https://github.com/vishvam839/Leetcode_Solution/tree/master/0650-2-keys-keyboard) |
+| [0754-reach-a-number](https://github.com/vishvam839/Leetcode_Solution/tree/master/0754-reach-a-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vishvam839/Leetcode_Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
 |  |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vishvam839/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0754-reach-a-number](https://github.com/vishvam839/Leetcode_Solution/tree/master/0754-reach-a-number) |
 <!---LeetCode Topics End-->
