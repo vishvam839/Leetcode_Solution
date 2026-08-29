@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vishvam839/Leetcode_Solution/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/vishvam839/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
+| [0704-binary-search](https://github.com/vishvam839/Leetcode_Solution/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishvam839/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1991-find-the-middle-index-in-array](https://github.com/vishvam839/Leetcode_Solution/tree/master/1991-find-the-middle-index-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vishvam839/Leetcode_Solution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -91,5 +92,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/vishvam839/Leetcode_Solution/tree/master/0704-binary-search) |
 | [0754-reach-a-number](https://github.com/vishvam839/Leetcode_Solution/tree/master/0754-reach-a-number) |
 <!---LeetCode Topics End-->
