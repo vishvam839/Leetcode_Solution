@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vishvam839/Leetcode_Solution/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/vishvam839/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
+| [0169-majority-element](https://github.com/vishvam839/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/vishvam839/Leetcode_Solution/tree/master/0704-binary-search) |
 | [0908-smallest-range-i](https://github.com/vishvam839/Leetcode_Solution/tree/master/0908-smallest-range-i) |
 | [1250-check-if-it-is-a-good-array](https://github.com/vishvam839/Leetcode_Solution/tree/master/1250-check-if-it-is-a-good-array) |
@@ -24,16 +25,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vishvam839/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0771-jewels-and-stones](https://github.com/vishvam839/Leetcode_Solution/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishvam839/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vishvam839/Leetcode_Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vishvam839/Leetcode_Solution/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishvam839/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vishvam839/Leetcode_Solution/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishvam839/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -111,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vishvam839/Leetcode_Solution/tree/master/3345-smallest-divisible-digit-product-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vishvam839/Leetcode_Solution/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vishvam839/Leetcode_Solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
