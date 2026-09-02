@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishvam839/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vishvam839/Leetcode_Solution/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1991-find-the-middle-index-in-array](https://github.com/vishvam839/Leetcode_Solution/tree/master/1991-find-the-middle-index-in-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vishvam839/Leetcode_Solution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/vishvam839/Leetcode_Solution/tree/master/2733-neither-minimum-nor-maximum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vishvam839/Leetcode_Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vishvam839/Leetcode_Solution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -41,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vishvam839/Leetcode_Solution/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishvam839/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vishvam839/Leetcode_Solution/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vishvam839/Leetcode_Solution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/vishvam839/Leetcode_Solution/tree/master/2733-neither-minimum-nor-maximum) |
 ## Counting Sort
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vishvam839/Leetcode_Solution/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishvam839/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vishvam839/Leetcode_Solution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Math
 |  |
 | ------- |
