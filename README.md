@@ -69,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vishvam839/Leetcode_Solution/tree/master/0100-same-tree) |
 | [0365-water-and-jug-problem](https://github.com/vishvam839/Leetcode_Solution/tree/master/0365-water-and-jug-problem) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vishvam839/Leetcode_Solution/tree/master/0100-same-tree) |
 | [0365-water-and-jug-problem](https://github.com/vishvam839/Leetcode_Solution/tree/master/0365-water-and-jug-problem) |
 ## Bézout's Lemma
 |  |
@@ -140,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/vishvam839/Leetcode_Solution/tree/master/0645-set-mismatch) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vishvam839/Leetcode_Solution/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vishvam839/Leetcode_Solution/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
