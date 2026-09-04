@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/vishvam839/Leetcode_Solution/tree/master/0908-smallest-range-i) |
 | [1250-check-if-it-is-a-good-array](https://github.com/vishvam839/Leetcode_Solution/tree/master/1250-check-if-it-is-a-good-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishvam839/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/vishvam839/Leetcode_Solution/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vishvam839/Leetcode_Solution/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1991-find-the-middle-index-in-array](https://github.com/vishvam839/Leetcode_Solution/tree/master/1991-find-the-middle-index-in-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vishvam839/Leetcode_Solution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
