@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vishvam839/Leetcode_Solution/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/vishvam839/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
+| [0162-find-peak-element](https://github.com/vishvam839/Leetcode_Solution/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/vishvam839/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/vishvam839/Leetcode_Solution/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/vishvam839/Leetcode_Solution/tree/master/0704-binary-search) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/vishvam839/Leetcode_Solution/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/vishvam839/Leetcode_Solution/tree/master/0704-binary-search) |
 | [0754-reach-a-number](https://github.com/vishvam839/Leetcode_Solution/tree/master/0754-reach-a-number) |
 ## Number Theory
