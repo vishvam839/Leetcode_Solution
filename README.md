@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/vishvam839/Leetcode_Solution/tree/master/1991-find-the-middle-index-in-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vishvam839/Leetcode_Solution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/vishvam839/Leetcode_Solution/tree/master/2733-neither-minimum-nor-maximum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/vishvam839/Leetcode_Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vishvam839/Leetcode_Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vishvam839/Leetcode_Solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vishvam839/Leetcode_Solution/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/vishvam839/Leetcode_Solution/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishvam839/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/vishvam839/Leetcode_Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vishvam839/Leetcode_Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
