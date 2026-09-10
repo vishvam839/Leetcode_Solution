@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/vishvam839/Leetcode_Solution/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vishvam839/Leetcode_Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/vishvam839/Leetcode_Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vishvam839/Leetcode_Solution/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/vishvam839/Leetcode_Solution/tree/master/0404-sum-of-left-leaves) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/vishvam839/Leetcode_Solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
