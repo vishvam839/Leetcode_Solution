@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishvam839/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/vishvam839/Leetcode_Solution/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vishvam839/Leetcode_Solution/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vishvam839/Leetcode_Solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1991-find-the-middle-index-in-array](https://github.com/vishvam839/Leetcode_Solution/tree/master/1991-find-the-middle-index-in-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vishvam839/Leetcode_Solution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/vishvam839/Leetcode_Solution/tree/master/2733-neither-minimum-nor-maximum) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vishvam839/Leetcode_Solution/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishvam839/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vishvam839/Leetcode_Solution/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vishvam839/Leetcode_Solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vishvam839/Leetcode_Solution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/vishvam839/Leetcode_Solution/tree/master/2733-neither-minimum-nor-maximum) |
 ## Counting Sort
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vishvam839/Leetcode_Solution/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/vishvam839/Leetcode_Solution/tree/master/0704-binary-search) |
 | [0754-reach-a-number](https://github.com/vishvam839/Leetcode_Solution/tree/master/0754-reach-a-number) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vishvam839/Leetcode_Solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Number Theory
 |  |
 | ------- |
