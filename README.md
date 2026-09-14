@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/vishvam839/Leetcode_Solution/tree/master/0908-smallest-range-i) |
 | [1250-check-if-it-is-a-good-array](https://github.com/vishvam839/Leetcode_Solution/tree/master/1250-check-if-it-is-a-good-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishvam839/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/vishvam839/Leetcode_Solution/tree/master/1389-create-target-array-in-the-given-order) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/vishvam839/Leetcode_Solution/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vishvam839/Leetcode_Solution/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vishvam839/Leetcode_Solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vishvam839/Leetcode_Solution/tree/master/0206-reverse-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/vishvam839/Leetcode_Solution/tree/master/1389-create-target-array-in-the-given-order) |
 <!---LeetCode Topics End-->
