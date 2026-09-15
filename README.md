@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/vishvam839/Leetcode_Solution/tree/master/0101-symmetric-tree) |
 | [0365-water-and-jug-problem](https://github.com/vishvam839/Leetcode_Solution/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/vishvam839/Leetcode_Solution/tree/master/0404-sum-of-left-leaves) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/vishvam839/Leetcode_Solution/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/vishvam839/Leetcode_Solution/tree/master/0101-symmetric-tree) |
 | [0365-water-and-jug-problem](https://github.com/vishvam839/Leetcode_Solution/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/vishvam839/Leetcode_Solution/tree/master/0404-sum-of-left-leaves) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/vishvam839/Leetcode_Solution/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Bézout's Lemma
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/vishvam839/Leetcode_Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vishvam839/Leetcode_Solution/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/vishvam839/Leetcode_Solution/tree/master/0404-sum-of-left-leaves) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/vishvam839/Leetcode_Solution/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Binary Tree
 |  |
 | ------- |
