@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vishvam839/Leetcode_Solution/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/vishvam839/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/vishvam839/Leetcode_Solution/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/vishvam839/Leetcode_Solution/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/vishvam839/Leetcode_Solution/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/vishvam839/Leetcode_Solution/tree/master/0704-binary-search) |
 | [0908-smallest-range-i](https://github.com/vishvam839/Leetcode_Solution/tree/master/0908-smallest-range-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vishvam839/Leetcode_Solution/tree/master/0169-majority-element) |
+| [0506-relative-ranks](https://github.com/vishvam839/Leetcode_Solution/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/vishvam839/Leetcode_Solution/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishvam839/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vishvam839/Leetcode_Solution/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/vishvam839/Leetcode_Solution/tree/master/1389-create-target-array-in-the-given-order) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/vishvam839/Leetcode_Solution/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
