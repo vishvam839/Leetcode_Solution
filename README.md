@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vishvam839/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
 | [0771-jewels-and-stones](https://github.com/vishvam839/Leetcode_Solution/tree/master/0771-jewels-and-stones) |
+| [3498-reverse-degree-of-a-string](https://github.com/vishvam839/Leetcode_Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/vishvam839/Leetcode_Solution/tree/master/1389-create-target-array-in-the-given-order) |
+| [3498-reverse-degree-of-a-string](https://github.com/vishvam839/Leetcode_Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
