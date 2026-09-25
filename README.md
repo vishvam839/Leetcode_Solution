@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vishvam839/Leetcode_Solution/tree/master/0011-container-with-most-water) |
+| [0977-squares-of-a-sorted-array](https://github.com/vishvam839/Leetcode_Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vishvam839/Leetcode_Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vishvam839/Leetcode_Solution/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/vishvam839/Leetcode_Solution/tree/master/0704-binary-search) |
 | [0908-smallest-range-i](https://github.com/vishvam839/Leetcode_Solution/tree/master/0908-smallest-range-i) |
+| [0977-squares-of-a-sorted-array](https://github.com/vishvam839/Leetcode_Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1250-check-if-it-is-a-good-array](https://github.com/vishvam839/Leetcode_Solution/tree/master/1250-check-if-it-is-a-good-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishvam839/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/vishvam839/Leetcode_Solution/tree/master/1389-create-target-array-in-the-given-order) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vishvam839/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0506-relative-ranks](https://github.com/vishvam839/Leetcode_Solution/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/vishvam839/Leetcode_Solution/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/vishvam839/Leetcode_Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishvam839/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vishvam839/Leetcode_Solution/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vishvam839/Leetcode_Solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
