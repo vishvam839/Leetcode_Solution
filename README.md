@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vishvam839/Leetcode_Solution/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1539-kth-missing-positive-number](https://github.com/vishvam839/Leetcode_Solution/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vishvam839/Leetcode_Solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/vishvam839/Leetcode_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/vishvam839/Leetcode_Solution/tree/master/1991-find-the-middle-index-in-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vishvam839/Leetcode_Solution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/vishvam839/Leetcode_Solution/tree/master/2733-neither-minimum-nor-maximum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/vishvam839/Leetcode_Solution/tree/master/0991-broken-calculator) |
 | [1250-check-if-it-is-a-good-array](https://github.com/vishvam839/Leetcode_Solution/tree/master/1250-check-if-it-is-a-good-array) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vishvam839/Leetcode_Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/vishvam839/Leetcode_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vishvam839/Leetcode_Solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vishvam839/Leetcode_Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vishvam839/Leetcode_Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
