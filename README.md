@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/vishvam839/Leetcode_Solution/tree/master/0607-sales-person) |
 | [0620-not-boring-movies](https://github.com/vishvam839/Leetcode_Solution/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/vishvam839/Leetcode_Solution/tree/master/1075-project-employees-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/vishvam839/Leetcode_Solution/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/vishvam839/Leetcode_Solution/tree/master/1741-find-total-time-spent-by-each-employee) |
 ## Prefix Sum
 |  |
