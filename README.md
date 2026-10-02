@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/vishvam839/Leetcode_Solution/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/vishvam839/Leetcode_Solution/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/vishvam839/Leetcode_Solution/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/vishvam839/Leetcode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0908-smallest-range-i](https://github.com/vishvam839/Leetcode_Solution/tree/master/0908-smallest-range-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishvam839/Leetcode_Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1250-check-if-it-is-a-good-array](https://github.com/vishvam839/Leetcode_Solution/tree/master/1250-check-if-it-is-a-good-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/vishvam839/Leetcode_Solution/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/vishvam839/Leetcode_Solution/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/vishvam839/Leetcode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0754-reach-a-number](https://github.com/vishvam839/Leetcode_Solution/tree/master/0754-reach-a-number) |
 | [1539-kth-missing-positive-number](https://github.com/vishvam839/Leetcode_Solution/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vishvam839/Leetcode_Solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
